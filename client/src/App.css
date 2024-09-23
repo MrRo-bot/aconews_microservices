@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  /* outline: 1px dotted black; */
+  --var: hsla(207, 17%, 72%, 0.2);
+}
